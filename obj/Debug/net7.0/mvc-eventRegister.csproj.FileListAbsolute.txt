@@ -1,0 +1,15 @@
+C:\Users\50579698890\Desktop\mvc-eventRegister\bin\Debug\net7.0\mvc-eventRegister.exe
+C:\Users\50579698890\Desktop\mvc-eventRegister\bin\Debug\net7.0\mvc-eventRegister.deps.json
+C:\Users\50579698890\Desktop\mvc-eventRegister\bin\Debug\net7.0\mvc-eventRegister.runtimeconfig.json
+C:\Users\50579698890\Desktop\mvc-eventRegister\bin\Debug\net7.0\mvc-eventRegister.dll
+C:\Users\50579698890\Desktop\mvc-eventRegister\bin\Debug\net7.0\mvc-eventRegister.pdb
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.csproj.AssemblyReference.cache
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.dll
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\refint\mvc-eventRegister.dll
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.pdb
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\mvc-eventRegister.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\mvc-eventRegister\obj\Debug\net7.0\ref\mvc-eventRegister.dll
